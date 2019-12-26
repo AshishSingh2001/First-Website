@@ -1,0 +1,178 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-size: 150%;
+  color: #40514E
+}
+
+hr {
+  border: dotted #80808094;
+  border-width: 8px 0 0 0;
+  width: 5%;
+  border-spacing: 1px;
+  margin: 50px auto;
+}
+
+h1 {
+  font-family: 'Sacramento', cursive;
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  color: #66BFBF;
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  color: #11999E;
+  font-weight: bolder;
+  ;
+}
+
+p {
+  font-family: 'Merriweather', sans-serif;
+}
+
+.top-container {
+  background-color: #cbf1f5;
+  position: relative;
+  padding-top: 100px;
+  display: block;
+}
+
+.middle-container {
+  background-color: white;
+  padding-bottom: 50px;
+}
+
+.bottom-container {
+  background-color: #66BFBF;
+  padding-bottom: 24px;
+  padding-top: 50px;
+  font-size: smaller;
+}
+
+.skills p {
+  margin: 0;
+}
+
+.skills h3 {
+  margin: 0;
+}
+
+.bottom-container p {
+  color: white;
+  padding-top: 15px;
+  font-size: smaller;
+}
+
+.profile {
+  padding-top: 80px;
+  line-height: 2;
+  width: 40%;
+  margin: 0 auto;
+}
+
+.cloud2 {
+  position: absolute;
+  left: 250px;
+  bottom: 320px;
+  height: 67.5px;
+  width: 225px;
+}
+
+.cloud1 {
+  top: 80px;
+  right: 250px;
+  position: absolute;
+  height: 67.5px;
+  width: 225px;
+}
+
+.mountain {
+  padding-top: 5%;
+}
+
+.name {
+  font-size: 5.5rem;
+  margin-bottom: 0;
+  color: #66BFBF;
+  font-weight: lighter;
+}
+
+.intro {
+  font-size: 1.7rem;
+  color: #3d84a8;
+  margin: 0;
+  font-weight: normal;
+}
+
+.code {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.volleyball {
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+
+.mypic {
+  width: 35%;
+  border-radius: 50%;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.contact-me {
+  padding: 30px 0;
+  width: 40%;
+  margin: 0 auto;
+}
+
+.contact-me p {
+  font-size: 80%;
+  padding-bottom: 50px;
+}
+
+.footer-link {
+  text-decoration: none;
+  color: #11999E;
+  font-weight: bolder;
+  font-family: sans-serif;
+  padding: 0 55px;
+}
+
+.footer-link:hover{
+  color: #EAF6F6;
+}
+
+.btn {
+	box-shadow: 0px 12px 20px -9px #276873;
+	background:linear-gradient(to bottom, #599bb3 5%, #408c99 100%);
+	background-color:#599bb3;
+	border-radius:8px;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:20px;
+	font-weight:bold;
+	padding:12px 32px;
+	text-decoration:none;
+}
+.btn:hover {
+	background:linear-gradient(to bottom, #408c99 5%, #599bb3 100%);
+	background-color:#408c99;
+}
+.btn:active {
+	position:relative;
+	top:1px;
+}
